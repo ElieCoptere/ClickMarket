@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ClickMarket</string>
+
+    <string name="search_tag">Que recherchez-vous ?</string>
 </resources>
